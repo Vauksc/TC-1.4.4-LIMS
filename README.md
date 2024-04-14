@@ -8,3 +8,4 @@
 Prerequisites:
 
 pip install tabulate
+pip install reportlab
