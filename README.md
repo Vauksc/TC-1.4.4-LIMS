@@ -7,5 +7,5 @@
 
 Prerequisites:
 
-pip install tabulate
-pip install reportlab
+- pip install tabulate
+- pip install reportlab
